@@ -20,7 +20,10 @@ The sound design was done entirely by me, although not all of the songs were nec
 
 I hope you enjoy Fleaflea to some extent. I realize this game is a bit buggy, very unpolished, and unintuitive at times. However, it was a great introduction to GameMaker. First, I'd suggest playing the old levels, then trying the new ones. Before anything else, I'd suggest reading the README in the oldlevels branch to see if you'd like the game.
 
+I've also uploaded a separate iteration of the Fleaflea idea to GitHub, also abandoned. However, it prioritizes other gameplay elements than this one did. Go check it out: https://github.com/SirCacto/GlobalQuestPrototype
+
 Thanks.
 
 -Jack (1/2/26)
+
 
