@@ -1,0 +1,2 @@
+instance_deactivate_object(o_SuperShoe);
+instance_activate_object(o_InfiniteWing);
