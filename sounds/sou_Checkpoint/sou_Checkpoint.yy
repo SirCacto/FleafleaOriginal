@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sou_Checkpoint",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.10678,
+  "exportDir":"",
+  "name":"sou_Checkpoint",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_Checkpoint.wav",
+  "volume":1.0,
+}

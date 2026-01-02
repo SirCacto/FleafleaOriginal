@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"trampolinejump",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.520833,
+  "exportDir":"",
+  "name":"trampolinejump",
+  "parent":{
+    "name":"Fleaflea CaranajoPack",
+    "path":"Fleaflea CaranajoPack.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"trampolinejump.wav",
+  "volume":1.0,
+}

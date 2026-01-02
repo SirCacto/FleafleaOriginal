@@ -1,0 +1,1 @@
+if (o_FleafleaCUTSCENE.ssstage = 2){instance_destroy(id);}
