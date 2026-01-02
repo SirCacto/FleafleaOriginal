@@ -1,7 +1,9 @@
 # Fleaflea (New Levels)
 The new Fleaflea levels! Check out the README on the oldlevels branch to read the manual. Relevant sections for this release include the synopsis, controls, and general gameplay loop.
 
-To start off, there are 4 new levels in this branch. All of the old content still exists in the rooms after the final level, but it's not intended to be here and may crash the game. Basically, after the one and only Marta level, consider yourself done with this release.
+Welcome to the land of Caranajo! Characterized by beautiful skies and lush green mountainsides, take a journey through this region!
+
+To start off, there are 4 new levels in this branch. All of the old content still exists in the rooms after the final level, but it's not intended to be here and may crash the game. Basically, after the one and only Marta level in the clouds, consider yourself done with this release.
 
 Some changes were made from the old version. Here are the major ones:
 
