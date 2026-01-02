@@ -68,4 +68,6 @@ More Specific Hints:
 
 - You start level 8 with the Super Shoe.
 
+- Only the red rocket is Fleaflea's rocket. The blue rocket just teleports you elsewhere in the level, so you don't need a key for it.
+
 Have fun!
