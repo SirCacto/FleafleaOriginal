@@ -8,6 +8,7 @@ To start off, there are 4 new levels in this branch. All of the old content stil
 Some changes were made from the old version. Here are the major ones:
 
 - You now restart from checkpoints with whichever powerup you had
+- Keys are also saved with checkpoints
 - The IWing's sprite was changed
 - Marta can now kill Goopies by diving
 
