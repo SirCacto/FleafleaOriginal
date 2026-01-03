@@ -70,4 +70,6 @@ More Specific Hints:
 
 - Only the red rocket is Fleaflea's rocket. The blue rocket just teleports you elsewhere in the level, so you don't need a key for it.
 
+- Fun fact! Level 9 has a Beetle Bulb placed on the checkpoint. This was an oversight I forgot to fix, but I made sure to take it out in the release. However, it still exists in the files, forever haunting the game...
+
 Have fun!
