@@ -11,6 +11,7 @@ Some changes were made from the old version. Here are the major ones:
 - Keys are also saved with checkpoints
 - The IWing's sprite was changed
 - Marta can now kill Goopies by diving
+- When in midair while running with the Super Shoes, the colors show properly
 
 These levels aimed to be longer and of higher quality than the old ones (you can be the judge of that).
 
