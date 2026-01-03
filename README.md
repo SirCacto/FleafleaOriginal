@@ -30,6 +30,8 @@ Debug Controls:
 - O/P - Move back or forward a level
 - C - Reset checkpoint
 
+WASD kind of works for movement. The controls for W were bugged, and I never fixed them because I was fine with using the arrow keys. I know how to fix it (it's very simple, actually), but I'm keeping it as is for the sake of preserving the state of the game when I stopped working on it.
+
 The general goal of each level is to find the key and then the rocket. Not all levels are like this, 
 but most are. If you can’t find one of these objects in the level, assume that you have to 
 complete some other objective to pass it. Additionally, if you complete the level but it restarts, 
