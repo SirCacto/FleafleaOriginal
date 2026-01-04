@@ -41,10 +41,7 @@ Powerups:
 - The IWing (Improved Wing) looks like a propeller. It gives you an additional midair flap as 
 Fleaflea. Additionally, if you touch a rainbow Flight Crystal, you’ll get another flap as well.
 
-- The Super Shoe allows you to run faster. By advancing your stage through the use of the 
-controls above and running, you’ll gain speed. You’ll reset to stage 0 if you stop moving or 
-change direction when grounded. On stage 1, you can kill Goopies (the little blue dudes who first appear in level 6). On stage 2, you can break 
-through orange blocks.
+- The Super Shoe allows you to run faster. By advancing your stage through the use of the controls above and running, you’ll gain speed. You’ll reset to stage 0 if you stop moving or change direction when grounded. However, if you change directions in midair, you will retain your stage as long as you are moving in any direction once you touch the ground. When in midair in this version, Fleaflea's sprite will turn back to gray; however, your stage is preserved despite this visual contradiction. On stage 1, you can kill Goopies (the little blue dudes who first appear in level 6). On stage 2, you can break  through orange blocks.
 
 - The Beetle Bulb looks like a small red berry. When you pick it up as Marta, your dive will now boost upward. Additionally, you gain the ability to do a midair dash by pressing Z. If you see a checkered wall, you'll need to dash to pass through it.
 
